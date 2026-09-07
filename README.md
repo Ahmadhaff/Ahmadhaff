@@ -113,6 +113,17 @@ Safety product with live location, alert lifecycles, and parental monitoring.
 
 `Next.js` `React Native` `Node.js` `PostgreSQL` `Socket.IO` `OneSignal`
 
+### Click Services — Service Marketplace API
+**Backend** · February 2023 — June 2023
+
+High-concurrency marketplace API with dedicated WebSocket channels, wallets, and live chat.
+
+- Dual **Node.js** backends for HTTP APIs and realtime Socket.IO
+- Indexed **MongoDB** schemas, cutting query latency by up to **30%**
+- Multi-currency wallets, reviews, and Stripe payments
+
+`Node.js` `Express` `MongoDB` `Socket.IO` `Redis` `Stripe`
+
 ---
 
 ## Timeline
@@ -126,7 +137,7 @@ Safety product with live location, alert lifecycles, and parental monitoring.
 | **Apr 2025 — Present** | **Bipperz** | Mobile | Flutter, Firebase, Stream Chat |
 | **Apr 2025 — Present** | OliviaShop | Frontend | React, Redux, Stripe / PayPal |
 | **Sep 2024 — Feb 2025** | **Feelsafe** | Full-Stack | React Native, Socket.IO, Node.js |
-| **Feb 2023 — Jun 2023** | Click Services | Backend | Node.js, Express, MongoDB |
+| **Feb 2023 — Jun 2023** | **Click Services** | Backend | Node.js, Express, MongoDB |
 
 ---
 
